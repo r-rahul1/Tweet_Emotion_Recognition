@@ -9,10 +9,17 @@ Built Recurrent Neural Network to classify tweets in respect of the emotion from
 
 #steps:
 -Introduction
+
 -Setup and Imports
+
 -Importing Data
+
 -Tokenizer
+
 -Padding and Truncating Sequences
+
 -Preparing Labels
+
 -Creating and Training RNN Model
+
 -Model Evaluation
